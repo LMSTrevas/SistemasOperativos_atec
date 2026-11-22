@@ -1,0 +1,7 @@
+Exercicio Git Prof Quental 
+CISEG1026 Trevas
+
+Edicao em 3 ambientes:
+Windows casa
+CentOS
+Outro CLI
